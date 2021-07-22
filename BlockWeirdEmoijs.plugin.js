@@ -7,7 +7,7 @@
  * @source https://github.com/ethansocal/Block-Weird-Emojis/blob/main/BlockWeirdEmojis.plugin.js
  */
 
-module.exports = class ExamplePlugin {
+module.exports = class BlockWeirdEmoijs {
     load() {} // Optional function. Called when the plugin is loaded in to memory
 
     start() {} // Required function. Called when the plugin is activated (including after reloads)
